@@ -1,0 +1,12 @@
+/Users/hyder/Desktop/Caravel/rustLearn/rust-blogpost-auth-async/target/debug/deps/uuid-9bcc68438e37468b.rmeta: /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/lib.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/prelude.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/adapter.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/core_support.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/serde_support.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/std_support.rs
+
+/Users/hyder/Desktop/Caravel/rustLearn/rust-blogpost-auth-async/target/debug/deps/libuuid-9bcc68438e37468b.rlib: /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/lib.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/prelude.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/adapter.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/core_support.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/serde_support.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/std_support.rs
+
+/Users/hyder/Desktop/Caravel/rustLearn/rust-blogpost-auth-async/target/debug/deps/uuid-9bcc68438e37468b.d: /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/lib.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/prelude.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/adapter.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/core_support.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/serde_support.rs /Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/std_support.rs
+
+/Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/lib.rs:
+/Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/prelude.rs:
+/Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/adapter.rs:
+/Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/core_support.rs:
+/Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/serde_support.rs:
+/Users/hyder/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.6.5/src/std_support.rs:
